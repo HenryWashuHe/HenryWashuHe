@@ -57,6 +57,6 @@ Plus CUDA, SGLang, vLLM, LangGraph, Hugging Face Transformers, SAE-Lens, Slurm a
 <summary><b>Off the clock</b></summary>
 <br>
 
-Played baseball as a student athlete with MLB China. Big on snooker, the gym, food and travel. I read a lot of fiction (Woolf, Morrison and Homer are favorites) and take cosmology classes for fun.
+Played baseball as a student athlete with MLB China. Big on snooker, the gym, food and travel. Into literature too (Woolf, Morrison, Homer), and I took a cosmology class just for fun.
 
 </details>
