@@ -5,7 +5,7 @@ Columbia CS '28. I build infrastructure for ML and distributed systems: LLM infe
 **Right now**
 - **COMET:** KV-cache eviction and recovery for long-horizon LLM agents, extending Mini-SGLang to serve Qwen3 on A100s (graduate Scaling LLM Systems seminar)
 - **NASA SUITS:** leading the UI and computer vision team building AR displays for Artemis moonwalks
-- Looking for **Summer 2027 infrastructure SWE internships** (May 14 to Sep 7, happy to relocate)
+- Looking for **Summer 2027 SWE internships** on any team. I'm especially drawn to infrastructure, ML systems and inference, but I love building across the stack. Available May 14 to Sep 7 and happy to relocate
 
 **Before that:** ByteDance (Android messaging feature, live after its A/B test) · Trizen AI (training a medical speech recognition model) · EleutherAI SoAR fellow (probing LLM internals) · Columbia CRIS Lab (SAE interpretability on Gemma-3-27B)
 
