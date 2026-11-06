@@ -9,7 +9,7 @@
   <a href="mailto:hhernye@gmail.com"><img src="https://img.shields.io/badge/Email-hhernye%40gmail.com-fadfb4?style=flat-square&labelColor=2b1820" alt="Email"></a>
 </p>
 
-I'm a CS student at Columbia who likes building the layer underneath: LLM serving and KV-cache management, replicated storage and consensus, and the occasional Android feature that has to survive an A/B test.
+I'm a CS student at Columbia who likes building the layer underneath: LLM serving and KV-cache management, replicated storage and consensus, and full-stack product features that have to survive an A/B test.
 
 **Right now**
 - **COMET:** KV-cache eviction and recovery for long-horizon LLM agents, extending Mini-SGLang to serve Qwen3 on A100s (graduate Scaling LLM Systems seminar)
@@ -20,7 +20,7 @@ I'm a CS student at Columbia who likes building the layer underneath: LLM servin
 
 | | |
 |---|---|
-| **ByteDance** · Douyin Social & Messaging | Built an in-feed messaging bar for the Android app, live after its A/B test |
+| **ByteDance** · AI Full-Stack Engineer, Douyin Social & Messaging | Owned an in-feed messaging feature end to end, from server-driven experiment signals and messaging-service integration to the client. Live after its A/B test |
 | **Trizen AI** · Medical speech recognition | Trained a clinical ASR model: data pipeline, SFT plus continued pretraining, medical-weighted eval |
 | **EleutherAI** · SoAR Research Fellow | Probed whether LLMs represent the chemistry behind drug-toxicity answers |
 | **Columbia CRIS Lab** · AI Research Engineer | SAE features and causal interventions on Gemma-3-27B |
