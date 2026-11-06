@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Henry He: infrastructure, ML systems and LLM inference. Columbia CS 2028.">
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#fadfb4"/>
+      <stop offset=".38" stop-color="#f6c49e"/>
+      <stop offset=".66" stop-color="#eea79e"/>
+      <stop offset=".86" stop-color="#d48fa4"/>
+      <stop offset="1" stop-color="#9a74a6"/>
+    </linearGradient>
+    <radialGradient id="sun" cx="50%" cy="42%" r="55%">
+      <stop offset="0" stop-color="#fff6dc"/>
+      <stop offset=".45" stop-color="#ffd27a"/>
+      <stop offset="1" stop-color="#ff9a5a"/>
+    </radialGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0" stop-color="#ffc98a" stop-opacity=".75"/>
+      <stop offset="1" stop-color="#ffc98a" stop-opacity="0"/>
+    </radialGradient>
+    <clipPath id="frame"><rect width="1200" height="300" rx="22"/></clipPath>
+  </defs>
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#sky)"/>
+    <circle cx="975" cy="150" r="150" fill="url(#glow)">
+      <animate attributeName="r" values="140;160;140" dur="6s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="975" cy="150" r="78" fill="url(#sun)"/>
+    <!-- skyline -->
+    <g fill="#2b1820" opacity=".9">
+      <rect x="0" y="262" width="1200" height="38"/>
+      <rect x="560" y="236" width="40" height="64"/><rect x="604" y="214" width="34" height="86"/><rect x="642" y="246" width="44" height="54"/>
+      <rect x="690" y="226" width="30" height="74"/><rect x="724" y="250" width="52" height="50"/><rect x="780" y="230" width="36" height="70"/>
+      <rect x="820" y="206" width="44" height="94"/><rect x="831" y="196" width="22" height="12"/><rect x="841" y="180" width="3" height="18"/>
+      <rect x="868" y="244" width="40" height="56"/><rect x="912" y="222" width="30" height="78"/><rect x="946" y="240" width="48" height="60"/>
+      <rect x="998" y="218" width="34" height="82"/><rect x="1036" y="248" width="44" height="52"/><rect x="1084" y="232" width="38" height="68"/>
+      <rect x="1126" y="244" width="74" height="56"/>
+    </g>
+    <g fill="#ffc98a">
+      <rect x="612" y="224" width="4" height="5"/><rect x="624" y="236" width="4" height="5"/><rect x="830" y="216" width="4" height="5"/>
+      <rect x="846" y="232" width="4" height="5"/><rect x="920" y="232" width="4" height="5"/><rect x="1006" y="230" width="4" height="5"/>
+      <rect x="1018" y="244" width="4" height="5"/><rect x="1092" y="242" width="4" height="5"/><rect x="788" y="242" width="4" height="5"/>
+    </g>
+    <!-- text -->
+    <text x="64" y="138" font-family="Georgia, 'Iowan Old Style', 'Times New Roman', serif" font-size="78" fill="#2b1820" letter-spacing="-2">Henry He</text>
+    <text x="68" y="186" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="24" font-weight="600" fill="#2b1820">Infrastructure, ML systems and LLM inference</text>
+    <text x="68" y="222" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="19" fill="#5a333b">Columbia CS '28  ·  New York</text>
+  </g>
+</svg>
